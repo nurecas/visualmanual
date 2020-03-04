@@ -9,6 +9,6 @@ An experimental visual manual of the Royal Enfield motorbike made with p5js and 
 Demo Video:
 https://youtu.be/jfxIOMYFcZg
 <br><br>
-Thanks to:<br>
+Thanks to:
 1. Teachable Machine : https://teachablemachine.withgoogle.com/
 2. P5JS : https://p5js.org/
