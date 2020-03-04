@@ -10,5 +10,5 @@ Demo Video:<br/>
 https://youtu.be/jfxIOMYFcZg
 <br/><br/><br/>
 Thanks to:
-1. Teachable Machine : https://teachablemachine.withgoogle.com/
-2. P5JS : https://p5js.org/
+- Teachable Machine : https://teachablemachine.withgoogle.com/
+- P5JS : https://p5js.org/
