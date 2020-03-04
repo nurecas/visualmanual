@@ -70,7 +70,7 @@ function setup() {
      else{
      label = "...";
      }
-     flippedImage.remove();
+     flippedVideo.remove();
      // Classifiy again!
      classifyVideo();
  }
